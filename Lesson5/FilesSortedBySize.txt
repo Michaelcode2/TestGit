@@ -1,0 +1,12 @@
+396M	/var/log
+385M	/var/log/journal/109e607eee144e118e2298389adea34b
+385M	/var/log/journal
+1,5M	/var/log/installer
+316K	/var/log/apt
+120K	/var/log/unattended-upgrades
+72K	/var/log/cups
+8,0K	/var/log/hp
+4,0K	/var/log/samba
+4,0K	/var/log/private
+4,0K	/var/log/hp/tmp
+4,0K	/var/log/dist-upgrade
